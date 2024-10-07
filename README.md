@@ -19,3 +19,5 @@ This project, developed for the **CSE115** course (Basics of C Language), is a s
 2. Compile the C file using any standard C compiler.
    ```bash
    gcc NSU_Pharmacy.c -o PharmacySystem
+3. or only donwload the exe file and o file from the release section
+4. Double click the exe file and boom you good to go
